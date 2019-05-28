@@ -13,9 +13,9 @@ Mizuxe is a responsive one page website template for self-help books.
 - Footer with copyright
 
 There are also implemented:
-    - scroll spy for navigation and scroll up each section.
-    - **Koala** - SASS compiler
-    - **SASS** - CSS pre-processor for _variables_, _nest styles_.
+- scroll spy for navigation and scroll up each section.
+- **Koala** - SASS compiler
+- **SASS** - CSS pre-processor for _variables_, _nest styles_.
 
 ## Screenshot of the page
 ![](img/screencapture-mizuxe-project.png)
